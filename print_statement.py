@@ -6,7 +6,6 @@ myname = "ADARSH"
 
 print(f"Hello {myname}! How are you?")
 
-
 def hello_name(somename):
     print(f"Hello {somename}! This is a function")
 

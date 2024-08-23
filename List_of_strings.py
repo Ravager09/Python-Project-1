@@ -1,19 +1,11 @@
 from print_statement import repeat_hello, hello_name
 
-
-
 def print_even_up_to_number(input_number):
     list_of_numbers = list(range(1, input_number+1))
     print(list_of_numbers)
     for num in list_of_numbers:
         if num % 2 == 0:
             print(num)
-
-
-
-
-
-
 
 
 if __name__ == "__main__":
