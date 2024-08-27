@@ -43,3 +43,4 @@ print(f"Maximum GPAof student = {max(data_frame['GPA'])}")
 print(f"mode GPA of students = {data_frame['GPA'].mode()[0]}")
 print(f"median GPA of students = {data_frame['GPA'].median()}")
 print(f"mean GPA of students = {data_frame['GPA'].mean()}")
+
